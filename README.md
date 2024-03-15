@@ -1,4 +1,4 @@
-- 📫 How to reach me: xingjian@polytechnique.edu
+- 📫 How to reach me: xingjian.zhang@polytechnique.edu
 <!--
 **xjzhaang/xjzhaang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
